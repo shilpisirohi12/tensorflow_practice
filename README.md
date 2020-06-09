@@ -1,1 +1,1 @@
-# tesnorflow_practice
+# tensorflow_practice
